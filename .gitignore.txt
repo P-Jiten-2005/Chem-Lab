@@ -1,0 +1,39 @@
+# Unity generated folders - never push these
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+
+# Unity asset meta files should be included
+# but these caches should not
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+ExportedObj/
+.consulo/
+*.suo
+*.tmp
+*.unitypackage.meta
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
+*.iml
